@@ -1,8 +1,8 @@
-<listing>
-  <clients>
+<liste>
+  <client>
     <code>100</code>
     <nom>Moss</nom>
     <prenom>Eric</prenom>
     <pays>France</pays>
-  </clients>
-</listing>
+  </client>
+</liste>
