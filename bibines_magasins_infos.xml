@@ -1,0 +1,50 @@
+<listing>
+	<magasin>
+		<name>Alcohol Land</name>
+		<pays>Etats-Unis</pays>
+		<ville>New-York</ville>
+		<date_ouverture>11/06/16</date_ouverture>
+	</magasin>
+	<magasin>
+		<name>Anonymous Rum</name>
+		<pays>Etats-Unis</pays>
+		<ville>Los Angeles</ville>
+		<date_ouverture>09/07/16</date_ouverture>
+	</magasin>
+	<magasin>
+		<name>Bratislava Wine</name>
+		<pays>Russie</pays>
+		<ville>Moscou</ville>
+		<date_ouverture>06/08/16</date_ouverture>
+	</magasin>
+	<magasin>
+		<name>Chez Cricri Martini</name>
+		<pays>France</pays>
+		<ville>Marseille</ville>
+		<date_ouverture>03/09/16</date_ouverture>
+	</magasin>
+	<magasin>
+		<name>Drink Everything</name>
+		<pays>Angleterre</pays>
+		<ville>Londre</ville>
+		<date_ouverture>16/10/16</date_ouverture>
+	</magasin>
+	<magasin>
+		<name>France Bibine</name>
+		<pays>France</pays>
+		<ville>Strasbourg</ville>
+		<date_ouverture>19/11/16</date_ouverture>
+	</magasin>
+	<magasin>
+		<name>Gutes Bier</name>
+		<pays>Allemagne</pays>
+		<ville>Munich</ville>
+		<date_ouverture>22/12/16</date_ouverture>
+	</magasin>
+	<magasin>
+		<name>Tequila Club</name>
+		<pays>Espagne</pays>
+		<ville>Madrid</ville>
+		<date_ouverture>01/01/17</date_ouverture>
+	</magasin>
+</listing>
