@@ -5,33 +5,5 @@
 		"firstname": "Wade",
 		"country": "United States",
 		"city": "Mobile"
-	},
-	{
-		"code_client": 101,
-		"lastname": "Melanie",
-		"firstname": "Halla",
-		"country": "United States",
-		"city": "Miami"
-	},
-	{
-		"code_client": 102,
-		"lastname": "Marsden",
-		"firstname": "Alfonso",
-		"country": "United Kingdom",
-		"city": "Denny"
-	},
-	{
-		"code_client": 103,
-		"lastname": "Bruno",
-		"firstname": "Magee",
-		"country": "Germany",
-		"city": "Waren"
-	},
-	{
-		"code_client": 104,
-		"lastname": "Benedict",
-		"firstname": "Cheryl",
-		"country": "Germany",
-		"city": "Cuxhaven"
-	},
+	}
 ]
